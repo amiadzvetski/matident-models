@@ -18,7 +18,7 @@ Output: label of identifiable materials ('Gd(NO3)3*6H2O', 'GdGNFs', 'La(NO3)3*6H
 2) LightGBM_r.sav
 3) CatBoost_r.sav
    
-### Output: numerical value of k-edge.
+Output: numerical value of k-edge.
 
 ### Format of Input:
 ```
