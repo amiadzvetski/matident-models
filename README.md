@@ -30,7 +30,7 @@ Output: label of identifiable materials ('Gd(NO3)3*6H2O', 'GdGNFs', 'La(NO3)3*6H
 
 # 3. How to load models?
 
-Intstall joblib:
+Installing joblib:
 ```python
 !pip install joblib
 ```
