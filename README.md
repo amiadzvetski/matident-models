@@ -3,7 +3,7 @@
 2) LightGBM_clf.sav
 3) CatBoost_clf.sav
    
-Output: label of identifiable materials ('Gd(NO3)3*6H2O', 'GdGNFs', 'La(NO3)3*6H2O', 'LaGNFs', 'Nd(NO3)3*6H2O', 'NdGNFs', 'air', 'bone', 'plex', 'water').
+Output: label of identifiable materials ('Gd(NO3)3x6H2O', 'GdGNFs', 'La(NO3)3x6H2O', 'LaGNFs', 'Nd(NO3)3x6H2O', 'NdGNFs', 'air', 'bone', 'plex', 'water').
 
 ### Format of Input:
 ```
